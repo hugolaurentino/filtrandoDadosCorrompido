@@ -1,0 +1,2 @@
+# filtrandoDadosCorrompido
+Filtrando dados corrompidos
